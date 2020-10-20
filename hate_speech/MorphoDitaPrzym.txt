@@ -42,6 +42,7 @@ ten jaki stary
 ten jaki stary
 
 
+cały
 
 ten
 główny
@@ -50,6 +51,7 @@ taki
 3 obowiązujący
 
 ten
+taki
 chrzestny
 brytyjski
 
@@ -149,12 +151,15 @@ twój swój
 jaki
 dobry długi
 
+twój
+twój
 dobry
 jakiś niepojęty każdy jeden
 
 
 spadkowy mistrzowski
 
+jaki
 
 
 
@@ -180,6 +185,8 @@ stary twój
 pierwszy
 
 profilowy dziwny
+żydowski amerykański swój
+żydowski amerykański
 
 
 zeszły sam
@@ -206,6 +213,7 @@ stary
 zielony czarny brunatny
 fejkowy wszystek mój
 taki daleki
+
 
 cwany
 cały
@@ -242,9 +250,11 @@ zwykły ludzki obcy taki
 taki pewny
 1
 
+silny zdrowy
 ten
 ten
 rewolucyjny
+
 
 dobry
 ten
@@ -295,6 +305,7 @@ ten
 
 
 
+
 górny prawy
 
 jeden
@@ -318,10 +329,12 @@ taki
 
 ten
 
+pusty
 jakiś
 twój
 
 
+mój kochany
 kolejny
 
 
@@ -418,6 +431,7 @@ dobry ten 89
 dobry
 dobry
 
+sam niepełnosprawny
 ważny obecny
 wszystek czerwony
 
@@ -495,6 +509,7 @@ tamten
 
 który
 każdy ten
+
 
 
 oczywisty
@@ -653,6 +668,7 @@ mój mój
 
 
 dawny
+odpowiedzialny
 cały
 jaki każdy
 taki
@@ -674,6 +690,7 @@ podobny
 
 sam
 ten
+tępy
 czyj
 gówniany odpowiedzialny dobry logiczny
 
@@ -686,6 +703,7 @@ sam
 taki
 
 wczesny poważny
+inny
 ten
 
 któryś
@@ -698,6 +716,7 @@ pełny
 I
 jeden wielki
 drugi
+
 
 
 własny
@@ -754,6 +773,7 @@ sam zwykły który
 
 ten sam
 swój
+ten
 inny
 twój stary śródplazmatyczny
 twój śródplazmatyczny
@@ -775,6 +795,8 @@ podobny
 dobry
 cały
 
+sam
+głupi stary
 taki idealny
 przesadzony
 chwilowy
@@ -804,6 +826,7 @@ gotowy
 darmowy
 
 
+jeden drugi
 
 niedostały
 
@@ -967,6 +990,7 @@ jaki taki
 
 radiowy
 ten długi zły
+
 zły ten finansowy
 
 liczny dokładny
@@ -1172,6 +1196,7 @@ mój
 
 
 który
+pierwszy
 
 zagraniczny
 
@@ -1307,6 +1332,7 @@ jasny
 długi trudny
 swój
 ostatni
+twój
 taki
 taki niesamowity
 wyjściowy podobny
@@ -1328,7 +1354,7 @@ następny
 twardy
 twardy
 porządny
-ten 4 nasz
+ten nasz
 play
 restauracyjny spożywczy mobilny
 taki
@@ -1354,6 +1380,7 @@ cały drugi
 cały drugi
 super ścisły
 
+smutny prosty
 
 
 jaki ładny taki uroczy
@@ -1392,6 +1419,7 @@ wszelki
 
 
 
+
 który
 
 mój
@@ -1419,6 +1447,7 @@ nasz wybitny
 żaden
 żaden
 
+europejski
 niedzielny ten
 brzydki możliwy
 jeden ważny który różny
@@ -1505,6 +1534,7 @@ jeden
 jeden
 ten
 polski lewy
+swój narodowy świni który
 
 jeden poważny
 
@@ -1541,6 +1571,7 @@ ten
 mój
 
 ten medyczny
+jaki taki ten ten pedalski
 
 
 amerykański
@@ -1563,6 +1594,7 @@ dobry schabowy
 
 
 inny
+
 
 super kreatywny ten udały
 dowolny
@@ -1592,6 +1624,7 @@ wiatrowy własny
 trwały
 trwały
 jakiś
+twój wysoki
 groźny nieobliczalny
 ciemny taki
 ciemny taki
@@ -1601,6 +1634,7 @@ ciemny taki
 
 swój
 prosty ten
+
 
 wasz
 który niesprawiedliwy
@@ -1699,6 +1733,7 @@ solidny przeciętny
 
 goły
 jaki wasz zły
+twój antysemicki antypolski
 
 który
 pożegnalny
@@ -1708,6 +1743,7 @@ mój
 nowy
 kompletny
 inny
+swój
 karny
 
 
@@ -1833,6 +1869,7 @@ młody
 
 
 jakiś
+umysłowy ten
 karny
 
 18
@@ -1903,6 +1940,7 @@ zły 2
 
 ten normalny
 ten normalny
+normalny katolicki
 sam
 
 duży
@@ -1950,9 +1988,11 @@ ten
 ten
 ten
 swój
+któryś
 
 
 piękny
+tajny
 
 taki
 a taki dostały
@@ -1963,6 +2003,7 @@ a taki dostały
 
 
 nieudany
+
 
 
 jedyny niepowtarzalny
@@ -1987,8 +2028,11 @@ ten który
 
 dobitny
 dobitny
+poślubny
 taki
 śmieszny
+światowy genetyczny czysty
+światowy genetyczny
 
 
 jeden poniedziałkowy ten kochający
@@ -2002,6 +2046,7 @@ niewinny
 każdy który
 jaki powiązany
 potrzebny
+mój pisowski
 adekwatny pierwszy prawdziwy
 ciekawy
 trudny taki
@@ -2059,6 +2104,7 @@ każdy
 ten
 
 
+taki patriotyczny ten
 
 
 ten
@@ -2076,6 +2122,7 @@ który sam
 
 
 duży 1 1
+niepełnosprawny
 ten nowy dotychczasowy właściwy
 17 1 6
 ważny
@@ -2095,6 +2142,7 @@ ciekawy sam
 1 8 1 jeden
 dobry
 jakiś
+ten
 I
 wszystek mądry
 
@@ -2117,6 +2165,7 @@ solidny tamten tamten
 
 drugi
 2
+
 cały 140
 
 
@@ -2132,8 +2181,10 @@ ten
 
 ten dziki islamski
 fajny
+jeden
 merytoryczny taki żaden
 obecny słoneczny
+ten
 taki zły
 warzywny ten
 warzywny ten
@@ -2144,6 +2195,7 @@ I beznadziejny
 
 
 odpowiedni
+intymny
 11
 jaki
 
@@ -2242,11 +2294,13 @@ pierwszy nasz ten
 pierwszy nasz ten
 który
 słaby
+ciekawy gdański
 studencki
 2 2 taki pewny
 zagraniczny
 
 
+ten własny
 taki
 
 
@@ -2261,6 +2315,7 @@ ostatni który
 sam
 
 twój zadowolony
+swój
 kompletny kompletny
 
 taki
@@ -2328,6 +2383,7 @@ ten sam nowy
 
 
 
+
 ten
 taki taki
 doskonały
@@ -2339,6 +2395,7 @@ nożny taki słaby
 
 nasz
 kolejny taki
+sam pisowski
 ten
 ten
 1 oficjalny wszystek
@@ -2389,6 +2446,7 @@ inny
 zaginiony
 taki
 
+chory chory
 
 
 pusty ostatni otwarty
@@ -2427,6 +2485,7 @@ sam
 
 
 taki karny
+wściekły jadowity
 
 7
 
@@ -2445,6 +2504,8 @@ ten lewy
 
 biedny twój biedny
 mój
+
+
 ten
 I
 I
@@ -2557,6 +2618,7 @@ taki
 ciekawy
 
 
+jebnięty
 pudełkowy super 10
 
 ten
@@ -2588,6 +2650,7 @@ twój
 karny wszystek
 który
 który
+tępy
 
 bezdomny
 czerwony
@@ -2781,6 +2844,7 @@ dobry
 cały
 ciekawy 12
 
+ten jakiś prosty staropolski nasz
 chorwacki
 
 
@@ -2824,6 +2888,7 @@ pierwszy polski świąteczny
 ten
 stary
 
+profilowy mały
 brukowy
 taki błyskotliwy ten
 taki błyskotliwy ten
@@ -2842,6 +2907,7 @@ zeszły podobny
 
 taki wysoki każdy
 niezgodny
+zakłamany
 wysoki
 prosty młody
 prosty młody ten
@@ -2855,8 +2921,10 @@ popularny nieszczęsny
 popularny nieszczęsny
 jakiś dziwny wiarygodny
 
+
 jaki ten
 
+nasz
 sam jeden
 każdy
 sam
@@ -2955,6 +3023,7 @@ twój
 
 
 sam
+swój
 cały duży
 dobry mój
 wielki
@@ -3033,6 +3102,7 @@ medyczny
 
 
 rosyjski
+
 niemiecki telewizyjny
 niemiecki telewizyjny
 ten
@@ -3067,8 +3137,10 @@ prawidłowy potrzebny kompletny
 śmieszny
 taki zielony
 
+
 pierwszy
 wielki
+
 
 
 
@@ -3315,6 +3387,7 @@ ten jeden
 ograniczony serio
 chory powolny zmęczony
 
+biedny stary
 kurzy
 
 
@@ -3323,6 +3396,7 @@ winny jakiś 3 ten
 winny jakiś 3 ten
 dobry dzisiejszy
 
+twój jeden wielki
 
 mądry
 jakiś bordowy dobry
@@ -3450,6 +3524,8 @@ ten chory
 
 
 naczelny
+
+
 kolejny
 
 
@@ -3531,6 +3607,7 @@ inny
 
 
 
+
 apolityczny ten młody
 
 jaki ten
@@ -3552,6 +3629,7 @@ nasz
 jaki jakiś lekki fajny wszystek który
 
 jakiś ten
+ten
 jaki swój
 
 miły
@@ -3579,9 +3657,11 @@ wczorajszy dostępny
 inny
 
 ten jeden
+płynny
 sam taki
 
 który bury
+
 
 jakiś
 
@@ -3686,6 +3766,7 @@ bezdomny
 
 stary
 
+
 halicki ostatni 15 ten
 ostatni 15 ten
 
@@ -3707,6 +3788,7 @@ wielki
 taki słaby prosty mistrzowski
 różny
 
+swój ludzki
 sam
 każdy
 
@@ -3730,6 +3812,7 @@ który
 
 wasz
 ten nasz
+ten
 
 taki redakcyjny
 
@@ -3799,6 +3882,7 @@ szyjowy panatenajski podróżny
 ten
 
 inteligentny twój
+dodatkowy
 każdy ten
 taki
 niedouczony
@@ -3809,6 +3893,7 @@ wasz ten
 1
 ten taki
 nowy
+ruski
 
 totalny
 
@@ -3881,6 +3966,7 @@ normalny
 szczęśliwy piękny to dramatyczny
 szczęśliwy piękny to
 ten
+
 
 
 
@@ -3994,6 +4080,7 @@ polski popołudniowy
 serio
 
 
+twój taki gładki
 ciągły
 dobry miły
 ten taki zadowolony
@@ -4027,6 +4114,7 @@ poniedziałkowy polski
 
 
 sam
+twój stary
 ten pewien ostrożny
 
 pierwszy
@@ -4056,6 +4144,7 @@ emocjonujący
 
 wspólny jaki wszystek
 światowy
+
 
 
 jakiś
@@ -4095,6 +4184,7 @@ kary hawajski
 inny
 
 
+jedyny
 
 
 biały
@@ -4134,6 +4224,7 @@ własny
 
 inny
 taki
+taki swój
 
 
 1 82
@@ -4198,6 +4289,8 @@ taki taki
 
 
 1 jakiś mega
+
+
 
 
 3
@@ -4282,6 +4375,7 @@ wybitny smakowy
 ofensywny ten
 
 
+
 brzydki
 swój
 ten
@@ -4334,6 +4428,7 @@ kluczowy
 Wielki nieznany
 jaki biały
 zajęty
+jadowity
 jeden taki
 każdy taki
 ten
@@ -4420,6 +4515,7 @@ taki sam
 jaki
 
 słaby karny
+religijny
 rudy niski
 rudy niski
 
@@ -4455,6 +4551,7 @@ cały
 
 
 
+
 jeden
 głupi
 19
@@ -4464,6 +4561,7 @@ ciekawy ten
 18
 jaki ten taki spory
 ten
+głupi
 mały faszystowski
 
 
@@ -4667,6 +4765,7 @@ ważny samorządowy
 
 
 taki
+
 
 
 wielki drugi sam
@@ -4877,6 +4976,7 @@ rodzinny
 rodzinny
 taki
 
+darmowy stary
 
 fajny nowy
 
@@ -4939,6 +5039,7 @@ następny
 taki
 wolny
 
+
 taki
 
 drugi młody
@@ -4986,6 +5087,7 @@ nowy
 
 który
 
+mój własny
 krótki polski
 21 nasz totalny
 ten ostatni
@@ -5197,6 +5299,7 @@ ten czyjś
 
 
 
+brzydki
 katastrofalny ten jutrzejszy
 stalinowski potworny
 piąty swój
@@ -5238,6 +5341,7 @@ dobry
 żaden
 
 biologiczny
+
 
 
 
@@ -5383,6 +5487,7 @@ stały
 normalny
 czarny zwycięski
 normalny
+inteligentny
 
 prawostronny
 
@@ -5654,6 +5759,7 @@ kolorowy
 
 
 ten
+jaki ograniczony tępy polski katolicki
 ten wasz
 ten wasz
 ten
@@ -5935,6 +6041,7 @@ I taki śląski
 dwutygodniowy jaki
 taki dobry
 
+pusty
 
 
 
@@ -5977,6 +6084,7 @@ mój
 mój
 emocjonalny
 
+tępy
 ordynarny
 
 dziwny twój
@@ -5984,6 +6092,7 @@ dziwny twój
 
 ten wielki
 wrocławski cenny
+wredny upierdliwy stary jedyny swój
 ten
 prosty
 
@@ -6096,6 +6205,7 @@ pewny
 2 ostatni
 jakiś
 
+stary
 mocny dobry prawdziwy
 
 dobry
@@ -6559,6 +6669,7 @@ jaki
 mój
 trafny
 
+1
 pancerny
 
 mój
@@ -6575,6 +6686,7 @@ który
 
 ten zły
 ten zły
+ten tani który
 jaki taki
 
 
@@ -6585,6 +6697,7 @@ letni pikowy ten
 
 
 50 reklamowy
+
 
 niecały pełny taki
 biedny
@@ -6612,6 +6725,7 @@ ten
 ten zabawny
 luty
 ubiegły
+ten
 piątkowy zły
 polski partyjny
 mój 11 grupowy
@@ -6633,6 +6747,7 @@ dumny żałosny
 młody
 mój były boży ruchomy
 mój były boży ruchomy si
+
 srebrny
 swój
 polski ten
@@ -6754,6 +6869,7 @@ zły który
 
 
 
+
 6 ten
 6 ten
 wczorajszy taki III ligowy
@@ -6805,6 +6921,7 @@ zeszły
 ten taki słowny
 
 
+mój pisowski
 wolny
 ten
 angielski hiszpański wart
@@ -6911,6 +7028,7 @@ jakiś
 
 ruski
 
+swój
 Łazienkowski
 medyczny
 podobny słaby
@@ -7004,6 +7122,7 @@ sam
 1 dobry
 1 dobry
 
+
 dobry
 sam
 biedny własny
@@ -7015,6 +7134,7 @@ wszystek
 żaden
 inny
 niemiecki
+
 
 skończony
 
@@ -7146,6 +7266,7 @@ inny
 
 muzyczny
 
+ten ten
 spory
 super
 który
@@ -7164,6 +7285,7 @@ jaki
 taki który
 
 
+kolejny bury
 wasz
 mój
 jakiś policealny
@@ -7427,6 +7549,7 @@ pierwszy
 niepokojący
 niepokojący
 
+sprawny 21
 każdy dorosły normalny a cywilizacyjny
 dobry piękny
 dobry piękny
@@ -7548,6 +7671,7 @@ wart
 ostry
 taki niefortunny
 
+
 I
 jasny ten ciekawy
 
@@ -7560,6 +7684,7 @@ taki smutny taki piękny
 jaki
 jaki
 obowiązkowy
+
 
 gruby zły 7
 taki ten wszystek
@@ -7673,9 +7798,11 @@ wczorajszy
 
 
 
+twój
 
 czyjś prywatny
 perfekcyjny pusty karny żółty karny
+ten wspólny
 
 
 
@@ -7770,6 +7897,7 @@ oficjalny
 ciekawy jaki
 
 ten
+twój stary godny
 
 
 jeden
@@ -7858,6 +7986,7 @@ taki 1
 
 
 
+ten mój
 
 ostateczny 12 I 14 II znany II
 duży
@@ -7884,6 +8013,7 @@ nowy
 stary
 
 dobry
+stary taki
 
 zupełny cały
 ten
@@ -7897,12 +8027,15 @@ odpowiedni ten bliski
 
 
 psychiatryczny psychiczny ciągły
-psychiatryczny psychiczny ten
+psychiatryczny psychiczny
+pisowski kolejny twój
 ten mały
+ten 12
 który
 
 inny
 nowy
+lewacki
 sztuczny
 drogi obecny wspólny
 dobry
@@ -7916,6 +8049,9 @@ bogaty
 młody sam
 ciekawy jaki sportowy
 swój
+ten przeklęty każdy
+ten
+ten
 jaki
 jaki młody cały
 18 20
@@ -7931,6 +8067,7 @@ ten
 ten
 taki karny
 oficjalny prasowy
+zły
 
 wysoki
 kolejny
@@ -7960,6 +8097,7 @@ wykluczony
 cały ten
 1 ligowy
 jeden ważny
+stary swój
 
 audio
 cały
@@ -7993,6 +8131,8 @@ jaki
 
 ten
 mój
+ten cały
+ten cały
 
 taki ten nowy
 
@@ -8026,6 +8166,7 @@ swój
 trudny
 
 jaki
+inteligentny
 ten idiotyczny
 weselny
 
@@ -8043,6 +8184,7 @@ drugi
 prawny ten
 cały śląski
 niebieski
+głupi
 modny
 
 taki
@@ -8060,11 +8202,13 @@ jaki jedyny
 
 ten
 ten jedyny mój
+
 szeroki
 taki
 który ten
 pucharowy
 ten słuszny
+
 
 
 
@@ -8088,11 +8232,15 @@ taki
 
 
 drugi
+czysty
+
 
 
 historyczny
+
 jakiś magiczny
 ten
+ordynarny prostacki
 jaki różowy słaby górny
 
 
@@ -8106,6 +8254,7 @@ jaki
 główny
 
 taki
+ten ten swój ciasny
 
 kolejny
 który
@@ -8113,6 +8262,8 @@ który
 taki polski prawdziwy
 
 drugi
+
+ten
 ten
 
 nowy potrzebny
@@ -8128,6 +8279,7 @@ postkomunistyczny to
 wysoki
 I
 
+ki ten
 ten
 żenujący
 
@@ -8140,6 +8292,7 @@ mój
 każdy
 następny
 ważny
+
 zeszły
 stary
 stary
@@ -8161,14 +8314,17 @@ polski I
 ten
 ten
 
+ten
 śląski
 
 ten
 prosty słaby
+który
 
 drugi
 ten
 inny
+duży ten który
 lekki mega
 
 wszystek
@@ -8178,7 +8334,9 @@ ciekawy
 cały
 ciekawy
 
+dawny chory
 ten
+
 
 
 dobry
@@ -8229,8 +8387,10 @@ karny każdy taki który karny twój
 
 
 ten
+jeden
 
 biedny taki
+twój sfrustrowany
 wszystek
 słaby dobry słaby
 
@@ -8239,9 +8399,11 @@ swój dobry inny
 
 
 
+
 doskonały
 nieuznany
 
+taki
 jakiś śmieszny
 
 
@@ -8308,8 +8470,10 @@ wszystek dobry
 
 
 
+
 18
 swój
+
 niezastąpiony swój
 nowoczesny żałosny kompromitujący
 nowoczesny żałosny kompromitujący
@@ -8353,6 +8517,7 @@ ten ten spalony
 ten ten spalony
 stolarski wielki
 
+następny
 cały
 ludzki
 taki
@@ -8385,6 +8550,7 @@ ten
 ten
 
 
+ten
 fajny
 
 
@@ -8401,6 +8567,8 @@ nasz 1
 
 rezerwowy
 wdzięczny doskonały
+
+ten
 
 
 
@@ -8422,6 +8590,7 @@ taki I swój wart swój
 
 
 
+wiarygodny następny
 świetny
 mój ten
 chrzestny
@@ -8442,6 +8611,8 @@ dobry
 spokojny
 fizyczny taki
 
+
+taki
 wspaniały
 wszystek mój kolorowy
 
@@ -8458,11 +8629,14 @@ nasz
 
 wielki
 różny taki
+ten
 mój
+ten jakiś
 
 
 
 drugi
+ten
 szacowny
 jaki rosyjski angielski ten
 
@@ -8484,6 +8658,7 @@ złamany
 złamany
 
 
+swój genialny
 mój
 
 taki nieważny ten sam
@@ -8514,6 +8689,7 @@ faszystowski profilowy
 oficjalny
 który
 taki
+dziennikarski
 nowy
 nowy
 końcowy
@@ -8541,6 +8717,7 @@ Czerwony
 
 duży
 
+ostry charakterny
 
 ten
 który swój
@@ -8561,11 +8738,13 @@ niemiecki generalny 7 3
 
 
 
+inny
 drogi
 ewidentny czerwony
 
 jaki meczowy
 chory
+
 
 
 
@@ -8590,9 +8769,11 @@ taki
 
 
 jeden drugi
+chory pochyły
 
 który dobry
 a
+swój
 ten każdy
 jakiś
 jaki wasz notoryczny
@@ -8611,6 +8792,7 @@ awaryjny
 
 taki
 który ten
+cały
 europejski wasz
 
 młody 1997
@@ -8623,6 +8805,7 @@ taki
 
 ten
 
+ten
 
 sam sam
 
@@ -8642,11 +8825,13 @@ jakiś dziwny europejski
 dobry dobry
 inny taki
 
-
+dobry zazdrosny taki inspirujący
+I
 wesoły
 
 
 ten
+
 
 
 inny dobry ostatni
@@ -8654,9 +8839,12 @@ inny dobry ostatni
 
 każdy zimowy X
 
+chory masochistyczny
 ten sam ten
 
+obrzydliwy każdy ten
 ten
+
 
 
 taki
@@ -8664,6 +8852,8 @@ taki
 ten słodki puchaty spory
 
 cały
+mózgowy
+
 zdolny
 
 dokładny 3 5
@@ -8671,9 +8861,11 @@ dokładny 3 5
 poszkodowany
 
 
+jasny taki dwugłowy
 ważny
 wszystek dobry mój
 wszystek dobry mój
+niedouczony który 1
 
 
 mój
@@ -8684,6 +8876,7 @@ taki czarny dobry
 
 fajny
 zły
+twój młody dziewczy mój młody
 dobry
 nowy
 jaki
@@ -8693,6 +8886,7 @@ pewny jasny
 stracony ogólny
 
 jakiś głupi taki
+dzisiejszy
 
 
 stary młody
@@ -8707,13 +8901,16 @@ dziki pazerny
 ten
 
 
+chory
 przepiękny
 kościelny
 niepamiętny ostatni
 
 głupi
 11 2001 który żaden
+
 dobry
+
 
 
 ten
@@ -8729,6 +8926,7 @@ pierwszy historyczny ten
 jakikolwiek
 
 spory
+świadomy
 nożny
 
 sam
@@ -8786,6 +8984,8 @@ prawdziwy każdy inny
 ważny pierwszy
 cały meczowy
 
+taki
+
 
 teoretyczny sam
 
@@ -8803,7 +9003,9 @@ ten
 duży powojenny
 duży powojenny
 
+kobiecy wczorajszy
 
+prosty
 trzeci
 zły
 zły
@@ -8815,7 +9017,9 @@ lisi
 
 
 głupi
+cienki
 
+ten
 założycielski
 który karny 9
 pierwszy pewny
@@ -8824,6 +9028,7 @@ kompaktowy
 
 polski angielski
 
+ten
 
 
 
@@ -8831,12 +9036,14 @@ wszystek
 
 
 
+drugi taki
 taki
 zły
 polski
 I dobry 18
 twój ten
 nasz daleki taki
+mój
 
 swój ciekawy żaden
 
@@ -8861,6 +9068,7 @@ twój pierwszy
 
 owczy
 ten
+ciekawy jaki swój oralny
 ślubny
 wspaniały ten wszystek
 nielogiczny realny
@@ -8893,7 +9101,10 @@ nożny żaden wszystek
 dzisiejszy okropny
 piękny
 
+mój młody
 istotny
+własny
+
 10
 mega minimalny
 okej sam
@@ -8922,7 +9133,9 @@ sam 18 kontrowersyjny
 taki
 niemiecki
 
+ten
 
+głupi
 celowy czerwony
 
 cały
@@ -8944,6 +9157,7 @@ jedyny chory taki
 jedyny chory taki
 taki sam
 
+
 6
 zmęczony
 
@@ -8955,6 +9169,7 @@ chory
 1
 dobry
 dobry
+ten
 
 
 taki
@@ -9024,6 +9239,7 @@ następny
 
 
 taki
+jeden mózgowy ten
 
 
 wolny
@@ -9034,6 +9250,7 @@ daleki
 
 taki
 insulinowy pierwszy 2007
+
 
 
 
@@ -9062,6 +9279,7 @@ cudzy
 zerowy ten
 
 ten
+ważny sam inny taki
 
 
 39 nasz
@@ -9089,6 +9307,7 @@ swój
 żaden ten
 ten
 
+sam żałosny
 zwykły zawodowy
 dobry
 stary
@@ -9133,8 +9352,10 @@ jakiś nowy smoleński aktywny ten
 
 
 dobry
+
 jeden
 żaden
+
 
 
 
@@ -9252,6 +9473,7 @@ który
 
 góralski
 
+angielski
 
 merytoryczny
 
@@ -9270,6 +9492,7 @@ wspólny sportowy
 taki który sam
 
 ten
+
 
 kontrowersyjny
 pierwszy drugi lewy
@@ -9294,14 +9517,17 @@ jaki ładny
 pewien
 dzisiejszy
 słaby
+następny
 
 taki mały biały
 sojowy
 
 
+1
 malutki polski
 cały
 
+chrześcijański
 I
 
 a
@@ -9334,17 +9560,21 @@ ten każdy wysoki ogromny
 
 
 
+
 mój
 
 
 80
 80
 
+upośledzony
 
 swój
 
+
 ten taki
 1 4 normalny
+
 cały drugi dobry
 taki dziwny
 równy równy
@@ -9361,6 +9591,8 @@ jaki
 jaki
 
 
+ten barani
+ten barani
 
 dzisiejszy ten
 dzisiejszy ten
@@ -9395,6 +9627,7 @@ wszystek
 taki taki czerwony
 banalny
 ten
+
 
 zrozumiały
 ciężki taki
@@ -9447,6 +9680,7 @@ brytyjski
 brytyjski
 
 
+górny
 trefny zamieszkały czysty taki
 trefny czysty taki
 taki
@@ -9457,6 +9691,7 @@ litrowy
 pochyły
 cały wojewódzki
 
+dziwny ten który zwykły
 dziennikarski publiczny
 dziennikarski publiczny
 
@@ -9464,6 +9699,7 @@ dziennikarski publiczny
 
 taki sam to
 taki sam to
+
 
 dobry zły spadkowy
 
@@ -9514,6 +9750,7 @@ mój sfrustrowany
 
 
 niezastąpiony każdy
+nacjonalistyczny niegodny ten
 sam
 włoski
 następny polski
@@ -9521,6 +9758,7 @@ następny polski
 sam
 stary stary stary
 
+załgany pisowski cały twój
 
 I warszawski jedyny
 cały mały
@@ -9567,8 +9805,10 @@ taki
 super
 
 ofensywny
+chłopi
 każdy duży
 
+chory mózgowy
 ten 13 15 mój
 
 prosty
@@ -9585,6 +9825,9 @@ taki duży taki prywatny osiedlowy
 jeden 5 minutowy
 
 kolejny
+
+
+kolejny
 taki
 
 
@@ -9597,6 +9840,7 @@ ważny
 taki mój
 sam
 kolejny taki kolejny
+wybujały
 
 
 
@@ -9660,11 +9904,13 @@ prosty
 głupi
 ten cały
 
+historyczny taki
 
 dobry zazdrosny
 swój pisowski stary
 super mój
 ten
+pisowski
 
 twitterowy
 ten sam
@@ -9685,6 +9931,8 @@ ten
 
 poprzedni
 
+
+
 cały
 gotowy
 taki sztywny żałosny mój
@@ -9702,6 +9950,7 @@ każdy zły
 duży
 
 
+
 paskudny
 wyborczy prezydencki
 
@@ -9716,6 +9965,7 @@ kolejny który ten
 
 szesnasty zagraniczny który swój
 marny tamten młody wielki
+gigantyczny intelektualny
 
 ten
 
@@ -9737,10 +9987,12 @@ pierwszy mój
 
 ofensywny
 
+podobny
 
 żaden żaden
 wolny
 zadowolony
+
 taki sam inny
 
 inny taki pisowski
@@ -9776,6 +10028,7 @@ twój
 
 wielki
 zasrany
+taki czarny
 który
 
 2
@@ -9810,6 +10063,7 @@ nowy
 taki
 wieczny
 13
+ten
 taki
 cesarzowy
 współczesny 8
@@ -9836,6 +10090,7 @@ III
 hawajski ten
 
 taki polski karny
+
 ten
 dobry
 dyscyplinarny
@@ -9846,6 +10101,8 @@ inny
 cały
 
 wolny
+
+
 
 
 
@@ -9924,6 +10181,7 @@ jeden ten
 
 
 
+chemiczny podatny
 
 
 który
@@ -9978,6 +10236,7 @@ nowy
 inny
 
 ten
+mózgowy
 osobliwy
 ciekawy
 
@@ -9995,6 +10254,7 @@ ten
 samolubny taki każdy
 
 
+
 wrażliwy
 jakiś narodowy
 cały zakłamany lewacki
@@ -10009,6 +10269,7 @@ ciągły wasz
 ciągły wasz
 następny
 swój
+nowy
 
 ten
 taki
@@ -10020,6 +10281,7 @@ ten
 
 winny ten ten
 cały
+
 
 sam każdy kolejny
 ten
@@ -10034,11 +10296,13 @@ ten
 super
 super
 
+
 6
 1 cały
 
 
 ciekawy
+agresywny
 super
 jeden neutralny 27
 
@@ -10128,6 +10392,7 @@ mój
 swój swój swój
 swój swój swój
 kościelny swój
+wstrząśnięty ten inny który
 który niebyły
 
 wielki wszystek
@@ -10170,7 +10435,8 @@ taki
 ostatni dobry
 ostatni
 
-1 4 1 karny
+1 4 1
+
 wasz pierwszy
 
 taki
@@ -10196,6 +10462,7 @@ mocny
 zdrowy
 muszy
 
+jaki
 
 kolejny główny
 
@@ -10240,6 +10507,7 @@ to 2
 
 
 
+
 ten duży
 dziwny
 
@@ -10253,6 +10521,7 @@ ten
 brzydki brzydki brzydki brzydki brzydki
 brzydki brzydki brzydki brzydki brzydki
 taki ciągły
+
 przychylny
 który
 
@@ -10308,6 +10577,7 @@ wszystek wszystek
 
 taki
 
+
 spodni który
 cały nadzwyczajny
 cały nadzwyczajny
@@ -10324,6 +10594,7 @@ swój taki wszystek
 ten dobry
 ten drugi
 
+mój zły
 wspólny treningowy
 nasz odpadły ważny paniny
 
@@ -10423,6 +10694,7 @@ ten chory
 bury inny swój
 
 
+
 zły
 jesienny wiosenny
 
@@ -10499,6 +10771,8 @@ ten wszystek
 
 ten ciasny
 taki następny ten sam ten sam
+
+
 taki polski
 ten
 biedny polski skromny
@@ -10511,6 +10785,7 @@ duży hawajski
 ostatni
 
 dumny trzeci
+jebnięty
 nowy
 kolejny pisowski
 
@@ -10523,6 +10798,7 @@ ciekawy
 profilowy
 taki
 zachwycony
+
 ten zaskakujący
 profilowy
 
@@ -10568,6 +10844,7 @@ bezwzględny
 
 dobry
 który
+ten mały
 
 
 
@@ -10652,6 +10929,7 @@ pierwszy
 1 2
 
 
+przytomny ten mały
 
 sylwestrowy
 sylwestrowy

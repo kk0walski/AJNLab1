@@ -42,6 +42,7 @@ mieć musić pakować
 mieć musić pakować
 
 brać produkować
+mieć zmieniać być
 dojść
 prowadzić będzie podać
 to trzeba dać być
@@ -50,6 +51,7 @@ zrobić
 świętować łamać
 grać być
 szanować
+rozsiewać
 ubrać
 chcieć kopiować
 brać
@@ -149,12 +151,15 @@ pokazać
 
 mieć to
 mieć pisać można zsyłać
+żalić to
+żalić to
 
 
 wierzyć
 niezaprzeczyla
 będziemy czekać
 jebać jebać bać
+wiedzieć lansować pracować
 rozmnażać
 działać działać
 walczyć być zapomnieć chodzić
@@ -180,6 +185,8 @@ zagrać
 kosztować
 
 mieć chować stać
+spodziewać latać zrobić
+spodziewać latać zrobić
 pić
 sprzedać
 pisać
@@ -207,6 +214,7 @@ będą
 założyć oglądać
 zdarzać
 mieć być
+
 dziwie być
 będzie odczytywać
 będzie pić będą jeździć
@@ -242,10 +250,12 @@ to widać
 być
 patrzyć brać mieć chcieć liczyć
 być znać
+
 pojawić to to
 pojawić to to
 
 widzieć
+zjeść wysrać
 chcieć lubić
 nabijać szydzić
 wypić chcieć zwracać to
@@ -291,6 +301,7 @@ mieć
 mieć zdać być
 szukać mieć
 czekać robić iścić
+być dotyczyć przeczytać wypowiadać
 pojechać
 myślić myślić słychać
 myślić myślić to
@@ -318,10 +329,12 @@ trzeba zrobić
 czulem być to móc wytrzymać
 wróce podejme bedzie
 pić
+zmienić
 sa
 myśleć to
 bedzie
 palić
+mieć wyprać
 współczuć woleć mieść robić
 słysze ujawnić
 chcieć będzie chcieć odchodzić
@@ -418,6 +431,7 @@ być to okradać dać
 być założyć będziecie
 być założyć będziecie
 wywalić
+być
 uznać
 
 zjednoczyć
@@ -497,6 +511,7 @@ być niestać osiągnąć
 orientować wiedzieć mieć
 ubrać to
 wejść musieć zostawiać przemycić
+piznę zacząć myśleć
 być napisać
 być
 słyszeć zastanawiać wymyślić obejrzeć
@@ -653,6 +668,7 @@ mieć być
 tanczykam
 mieć czekać
 być wzrość
+będziesz
 
 uratować być wiedzieć być
 mieć musić spróbować
@@ -674,6 +690,7 @@ mieć napisać czekać doczytać zawiesić
 to działać
 wziąć ośmieszać pisać potrafić przyznać usuwać
 
+uważać
 być być
 produkować zwolnić
 będę musieć szykować
@@ -686,6 +703,7 @@ widzieć zrozumieć można
 rozumieć sprzedawać
 obchodzić odpisać
 
+mialić być być
 to być mieć wierze
 mieszkać działać
 śmiać wychowywać być
@@ -699,6 +717,7 @@ zmienić
 to doić
 być być
 być
+widze być
 być rozmyć
 musić iścić dać obronić
 odpowiadać chodzić trzeba uściślić podnieść
@@ -754,6 +773,7 @@ wiedzieć wchodzić
 mieć być wydarzyć wystartować
 być wiedzieć robić
 pomyślić być zgarnąć
+być
 promować być
 nosić
 nosić
@@ -775,6 +795,8 @@ zadawać
 być to chodzić
 trafić mieć przesadzać
 kupić
+paść
+być słuchać chcieć gadać
 być myślić znaleźć
 stwierdzić być przesadzić
 być
@@ -804,6 +826,7 @@ być być zagracić
 robić chcieć pisać
 być
 być
+
 czuć zmoknąć przejachana wyglądać
 dostać zwolnić
 zaczynać uprawiać pozdrawiać
@@ -967,6 +990,7 @@ dzielić przechodzić
 
 będę mieść
 
+mieszkać pomieszkać będziesz móc szczekać
 
 cieszyl tupać
 mieć
@@ -1172,6 +1196,7 @@ to
 żaluzje
 mieć wybaczyć
 widać być to mieć
+zjebać śmiać
 wstydzić
 móc grać musieć zrobić
 odkryć spaść włączyć być podać być
@@ -1307,6 +1332,7 @@ wchodzić zmienić zobaczyć mieć
 odpoczywać
 ufać
 przyjść
+być dawać wspomnąć
 mieć ogarniać
 
 być móc być
@@ -1354,6 +1380,7 @@ siedzieć myśleć robić zmieniać
 siedzieć myśleć robić zmieniać
 powinien być myśleć
 mieć
+być pić być
 być móc powiedzieć brakować
 braknac
 mieć być mieć mieć
@@ -1391,6 +1418,7 @@ to
 wpaść wydostać mieć pomyśleć wleźć
 uważać zająć znaleźć
 pisać
+bedzie
 wiedzieć odkupić
 być wiedzieć pisać mieć żegnać
 
@@ -1419,6 +1447,7 @@ trzeba zmienić
 weż zmienić
 zmienić
 chodzić
+być zabrać zabrać
 pisać będą wiedzieć
 być być
 zgadzać być różnić stać siedzieć
@@ -1505,6 +1534,7 @@ budować wolno interpretować
 budować wolno interpretować
 znaleźć
 retweetuje popierać
+karmić puchnąć żreć
 biegać
 łudzić być
 zostać
@@ -1541,6 +1571,7 @@ boje napisać przegrać uznać
 ograniczać mieć
 chcieć będzie
 to przejść
+
 pozostawać nagrać robić
 wracać
 
@@ -1563,6 +1594,7 @@ zdradzić
 niepokoić przedłużyć
 być wracać
 być
+wiedzieć zrobić
 bronić
 mieć udać
 to dostosować postarać
@@ -1592,6 +1624,7 @@ skreślać
 powodować
 powodować
 mieć wykupić być
+być skoczyć
 
 piekni
 piekni
@@ -1601,6 +1634,7 @@ lecieć
 lecieć
 awansować
 ustan bać
+to być
 swędzić
 przeczytać odpowiedzieć pogrążać
 odpowiedzieć być
@@ -1699,6 +1733,7 @@ wyglądać
 zmniejszyć trza być ubrać
 bać przyjść przykryć
 być
+
 robić mieć planować
 prosić machać zgadzać
 mieć
@@ -1708,6 +1743,7 @@ znać wygadać
 robić kasować wyszly
 machnąć zmienić
 decydować
+czepić pójść podglądać
 być
 zdać
 przypominać walczyć mieć zatrzymać
@@ -1833,6 +1869,7 @@ jechać mieć robić
 musić strzelić móc narzekać
 chcieć wiedzieć być
 zawracać
+oceniać świadczyć wojować ginąć
 to być przegrać
 stać
 zapraszać
@@ -1903,6 +1940,7 @@ dawać chcieć negocjować wybrać dziwić
 stać
 musić płacić pomyć dać
 musić płacić pomyć dać
+pojebać pytać
 unieść mieć
 dziękować zrobić
 szkoda chcieć zarabiać będzie uwierzyć mieć
@@ -1950,9 +1988,11 @@ wiedzieć zareagować pokazać
 znać
 wydawać mieć wymagać
 
+spodobać
 brać urość znaczyć opłacać
 widzieć odnotować
 mieć bywać
+zmienić przestać ćpać
 będą biegać poradzić
 mieć to
 dostać
@@ -1965,6 +2005,7 @@ dziwie mieć
 pokazać trafiać mieć vide
 życzyć przejść wyniść
 mieć strzelić widzieć litować
+odpisać oglądać
 być
 rozemocjonować
 poznać
@@ -1987,8 +2028,11 @@ mieć
 czytać zaprzeć
 rządzić to
 rządzić to
+czekać
 dojść
 widze
+mieć być przechowywać
+mieć być przechowywać
 robić powiedzieć
 robić powiedzieć
 wiedzieć kochać śmieć kochać śmieszyć
@@ -2002,6 +2046,7 @@ mieć być to myślić
 dbać dotyczyć
 być powiązać
 
+zbliżać
 zobaczyć zabawić
 zastanawiać
 będzie
@@ -2059,6 +2104,7 @@ to
 brać to
 srać mieć
 mieć mieć zrobić
+przelać
 dostawać powinni wypoczywać regenerować latać
 wisieć kabony
 paść
@@ -2076,6 +2122,7 @@ widzieć jechać
 
 jechać
 mieć dać zarobić
+wyglądać karmić
 uważać być
 
 składać mieć
@@ -2095,6 +2142,7 @@ obudzić
 
 żyć zyje
 to być
+zjebać wsadzić
 
 czarować być
 być
@@ -2117,6 +2165,7 @@ to widać
 żyjęntym
 strach pomyśleć móc być
 zacząć
+być
 polegać zmieścić
 słyszeć
 to być
@@ -2132,8 +2181,10 @@ zalęgnąć
 zrobić robić
 zbojkotować jechać grać
 słuchajta
+pamiętać
 wiadomo być być
 
+zmienić
 urągać czuć
 musić mieść pójść grać
 musić mieść pójść grać
@@ -2143,6 +2194,7 @@ to być to móc być
 powinno być
 dostać wyjaśnić zostawać przyznać
 wystarczyć wznowić
+
 
 
 być
@@ -2242,11 +2294,13 @@ być grać trzeba płacić zostać
 być grać trzeba płacić zostać
 mieć ubylo przybyć iścić być
 dziwie spaść
+widze boleć stać
 skończyć być móc pomóc
 być chcieć kupić dać
 siać pisać
 pocałować
 chcieć pytać
+tracić zaczynać osiagać
 czuć
 potrafić wykręcić
 mieć zostać
@@ -2261,6 +2315,7 @@ wziąć być
 być
 idz zrobić
 wiedzieć będzie
+chwalić chodzić mieszać
 prawić
 witać
 brać
@@ -2327,6 +2382,7 @@ mieć potrafić wymyślić
 będzie śpiewać
 być uzyty
 dodać
+schować pisać
 pozdrawiać
 chcieć bronić
 chcieć zrobić grać
@@ -2339,6 +2395,7 @@ to biegać być
 przegrać będa grać będziesz mówić
 to
 spotykać
+być
 wyolbrzymiać
 wiedzieć będę życzyć
 powinno zmienić
@@ -2389,6 +2446,7 @@ mieć wyglądać wybierać
 musić oglądać być chcieć
 myślić będzie odpowiadać
 dać wyrobić ćwiczyć mieć zebrać
+iść
 
 to
 podejrzewać będzie
@@ -2427,6 +2485,7 @@ trenować mieszać
 
 wyszlam
 gwizdać być faulować
+
 dać
 odpowiadać mieć służyć
 skończyć
@@ -2445,6 +2504,8 @@ to
 to czas
 to być
 mieć
+to powiedzieć trafić
+mówić
 być
 
 
@@ -2557,6 +2618,7 @@ podważać moge poznać
 musić być
 brać będzie to
 wiedzieć ładować
+być
 zetrzeć
 musić ogarnąć jechać
 
@@ -2588,6 +2650,7 @@ to
 to
 dziecinnieć zachowywać chcieć robić
 dziecinnieć zachowywać chcieć robić
+mieć iścić
 kochać
 czytać
 
@@ -2781,6 +2844,7 @@ zrujnowaliscie wrócić
 
 traktować być potrafić wymienić
 być zwracać
+mówić wypierdalać
 móc przepisywać
 to srales pisać
 być
@@ -2824,6 +2888,7 @@ wiedzieć
 
 skończyć skończyć
 wyjebać przepraszać
+
 widzieć
 zmienić
 zmienić
@@ -2842,6 +2907,7 @@ wyjechać
 zatrudnić znać
 być
 nagłośnić
+być
 widzieć
 być dowiedzieć pracować postanowić dotykać
 być dowiedzieć pracować postanowić dotykać
@@ -2855,8 +2921,10 @@ obciąć stać
 obciąć stać
 mieć słuchać być
 można
+mieć zapytać niszczyć nazywać
 wiedzieć będą mieć przestraszyć
 zagrać być planować
+zamknąć zrobić bede naprawiać
 mieć rozumieć
 wierzyć chcieć
 wracać spotkać jechać
@@ -2955,6 +3023,7 @@ będzie
 leczyć zwać
 
 uważać zrezygnować
+dojść żalić ściskać
 to pójść planować pozamieniać naprawić móc żyć
 potrzebować musić znaleźć
 
@@ -3033,6 +3102,7 @@ przyjść
 
 liczyć zdobyć
 być
+pokazać być
 ciągnąć pojechać
 ciągnąć pojechać
 mieć opisać robić brakować
@@ -3066,10 +3136,12 @@ przebrać
 podniecać być
 zrobić
 życzyć komentować noeasz
+widzieć zrobić
 mieć strzelać to naciagany
 szkoda wchodzić
 być gadać
 grać
+wziąć wkurwiać
 mieć
 podratować
 
@@ -3315,6 +3387,7 @@ słyszeć to być znać przepadać
 musić być brać
 być
 dostać chcieć mieć założyć
+wydupczyć
 będzie mieć ścierać
 
 być doinformować
@@ -3323,6 +3396,7 @@ być zajebać odwalać
 być zajebać odwalać
 być
 uważać musieć bracić
+być
 komentować
 zmieniać mieć
 myśleć chcieć mieć wiedzieć to
@@ -3450,6 +3524,8 @@ być powinni robić
 
 wiedzieć być śpiewać czuć nwystroiła
 mieć
+wywalić
+wywalić
 wziąć
 wyzywać zapewnić
 wyzywać zapewnić
@@ -3528,6 +3604,7 @@ wydalać zjebać
 wydalać zjebać
 obejrzeć rozbić
 wprowadzić weszlo
+wiedzieć urodzić wiedzieć mieć
 powinni napluć
 udać
 chodzić
@@ -3552,6 +3629,7 @@ wsiec wystarczyć kraść
 polecać kochać oglądać
 
 będę mieć będę odzywać
+walić
 wierzyć
 ponawiać to
 wysyłać
@@ -3579,10 +3657,12 @@ wiedzieć dziać latać
 widzieć widzieć widzieć mieć wygrać
 to to być
 pić zaksztusił wystarczyć
+wiedzieć być powiedzial potwierdzić
 wierzyć sprzedawać
 
 prosić potwierdzać łgać manipulancie
 mieć policzyć wracać
+nawoływać
 
 lać
 mieć pójść potrzebować
@@ -3685,6 +3765,7 @@ móc zabić móc
 uważać powinieneś pójść
 wzieliście czekać
 być
+zapytać
 zawitać będzie
 postrzał spać
 postrzał spać
@@ -3707,6 +3788,7 @@ dziwić dziwić myślić przyjść
 zdobyć zasługiwać
 zwracać
 wiedzieć poradzić śpiewać wpadać
+zamkinij szkodzić dzielić rosnąć
 móc oddać chcieć
 wyolbrzymiać to płacić
 to rozumieć
@@ -3730,6 +3812,7 @@ dostać
 grać oszukiwać to oszukiwać pytać odrobić
 wziąć ośmieszać pajacować to wysyłać
 być wiedzieć
+protestować napluć wywalić
 siedzieć
 dziękować chodzić móc mieść pracować
 będziecie kłamać
@@ -3799,6 +3882,7 @@ to można
 dopuścić
 strzelić
 można zadać patrzyć
+opublikować będzie wiadomo dostarczyć
 chodzić chcieć tłumaczyć rozumieć interesować
 podnosić zmieniala bronić
 szkodzić
@@ -3809,6 +3893,7 @@ widzieć przeć widzieć usunąć
 wyciągnąć mieć
 wiedzieć chcieć naciągnąć wypłacać
 to być czekać
+być
 móc drzeć
 trzeba być chwalić
 będą zwalniać będą mieć
@@ -3885,6 +3970,7 @@ trafić
 grać
 wystarczyć przeczytać wypowiadać
 wygrać przedłużyć
+
 zagrać
 
 wstyd
@@ -3994,6 +4080,7 @@ będzie zdążyć wliczać
 byleś
 spadać napisać powinni spałować
 
+mieć to skazić
 iść
 życzyć
 być grać być
@@ -4027,6 +4114,7 @@ mówić
 ponarzekać pakować
 to
 wierzyć
+mieć
 być
 wiedzieć myślić odmawiać
 być wymienić
@@ -4056,6 +4144,7 @@ myśleć zacząć chodzić uwierzyć zdarzać zmienić
 być
 mieć powsadzać sugerować odpowiadać
 mieć mieć to niewykazal
+udawać
 
 
 mieć
@@ -4095,6 +4184,7 @@ to to
 mieć mieć wiedzieć oznaczać
 
 mieć wejść
+przychodzić to
 
 spędzać
 robić
@@ -4134,6 +4224,7 @@ polegać musić
 wątpie
 traktować
 mieć móc patrzeć
+być narzucajacym
 zagrać wiedzieć
 mieć
 grać
@@ -4199,6 +4290,8 @@ być doić
 napisać być
 mówić dostawać musieć mieść
 unosić
+
+
 zgłosić
 być
 chodzić sądzić rozrosnąć wrzucać
@@ -4280,6 +4373,7 @@ doceniać
 doceniać
 
 musić oznaczać odzyskać
+obchodzić
 dziać
 mieć rozpoznać
 być
@@ -4334,6 +4428,7 @@ szukać
 wiedzieć wypowiadać
 
 zająć jechać
+moze naskoczyć
 rodzić
 chcieć dobijac leżeć być dobić
 być
@@ -4420,6 +4515,7 @@ będzie
 sciagać
 zrobić przegrać popierać grać
 zlamalo nabrać
+rozumieć można być trzeba być pierdolnąć
 powiedzieć to móc prosić
 powiedzieć to móc prosić
 dać trzeba
@@ -4454,6 +4550,7 @@ porywać widzieć
 zadzwonić
 przepraszać
 przepraszać
+mylić wiedzieć myślić
 robić
 spowodować zacząć przegrywać
 być czytać robić
@@ -4464,6 +4561,7 @@ chodzić stłuc wydawać trenować
 zapraszać
 będzie to być
 usłyszeć rezygnować
+być
 być
 
 
@@ -4669,6 +4767,7 @@ mieć pójść
 powiedzieć widzieć zachować
 
 dbać
+odpocząć mieć uciskać
 mieć wyniść
 być móc być
 gadać
@@ -4877,6 +4976,7 @@ pytać chcieć układać
 pytać chcieć układać
 mieć wiedzieć
 przekombinować mieć mieć kupić
+powinieneś cieszyć braknąć
 być
 być mieć czytać
 
@@ -4938,6 +5038,7 @@ być mieć
 wchodzić
 wybaczać
 dostać
+pogadać przestać mówić
 
 potrafić osłabić opadać być
 być przekonać
@@ -4986,6 +5087,7 @@ to żyć oderwać
 być kupić
 pamiętać to być
 wiedzieć jeździć
+rozmawiać
 można napisać umieć posługiwać
 to posłużyć narzucić
 być mieć rozumieć zagwizdać
@@ -5197,6 +5299,7 @@ trzeba skasować skończyć
 będziesz oglądać
 załatwić zobaczyć być
 będzie
+być
 móc pozostawać
 polecać
 mówić piędziesiątych chcieć znać
@@ -5239,6 +5342,7 @@ włączać pomóc
 to
 minąć przyzwyczaić
 mieć robić wolno
+straszyć straszyć zająć
 wiedzieć to być podpowiedzieć
 wiedzieć to być podpowiedzieć
 radzić porozmawiać sprawdż
@@ -5383,6 +5487,7 @@ zapytać on.powinien wiedzieć
 zabrać dopingować być umieć czytać
 być wybrać
 łgać
+mieć mieć wyniść
 być
 mieć mieć musić zmienić
 dać
@@ -5654,6 +5759,7 @@ dać wyliczyć to
 brać zacząć zwracać wiedzieć przestać rosnąć
 trwać
 wiedzieć lansować
+być
 wzruszać rozumieć być móc być
 wzruszać rozumieć być
 
@@ -5936,6 +6042,7 @@ zgwałcić żyć
 wstydzić podpisywać
 zjeść
 liczyć nalać
+to mieć przepracowal
 usunąć
 bedzie grać czekać
 móc zmienić
@@ -5977,6 +6084,7 @@ kraść wciskać być to słyszeć
 kraść wciskać być to słyszeć
 widzieć wiedzieć
 
+być wierzyć popatrzyć
 
 mieć
 patrze nazywać
@@ -5984,6 +6092,7 @@ ustawić
 
 być
 czekać mieć
+pomyć
 być
 wyniść
 mniemać mieć
@@ -6096,6 +6205,7 @@ to szkoda zostać być
 grać
 spróbować być mieć
 kiwać
+to zaprosić pobrudzić
 
 wiadomo
 umrzeć
@@ -6559,6 +6669,7 @@ móc powiedzieć
 mieć iścić być sprawdzić
 czekać zamilknąć komentować oburzać brakować wyważyć
 opętać to być odebrać
+zapomnieć
 
 będzie
 być znaczyć dawać
@@ -6575,6 +6686,7 @@ móc instruować bezpruderyjnie
 dołączyć
 to bedzie
 to bedzie
+musić uzupełnić mieć
 nominować
 patrzyć
 musić zacząć palić
@@ -6586,6 +6698,7 @@ wiedzieć wiedzieć mieć
 zaorać
 
 zostać zaczepić być
+wiedzieć poznać mieć
 wychodzić
 być trzeba poduczyć
 potrafić popłakać oglądać
@@ -6612,6 +6725,7 @@ odpalić ciosać
 usunąć
 być
 mieć
+pojebać dawać
 być
 ginąć być to to
 mieć przyzwyczaić być
@@ -6633,6 +6747,7 @@ móc doczekać umrzeć
 mieć
 zapytać być chodzić
 zapytać być chodzić
+skończyć
 to
 móc
 zgodzić
@@ -6752,6 +6867,7 @@ grać
 pisać wiadomo chodzić
 patrzyć wiedzieć iść
 będzie zostać pogonić
+wiedzieć być
 przeprowadzić
 sądzić bić
 być móc będzie wyobrażać
@@ -6805,6 +6921,7 @@ być
 podobać szanować
 być
 robić
+
 wiedzieć wiedzieć dziękować musić wybrać
 
 nauczyć
@@ -6911,6 +7028,7 @@ czekać ominąć być
 wziąć łapać
 być
 być zostać
+
 potrafić powstrzymać wygrać
 znać to to
 zagrać
@@ -7004,6 +7122,7 @@ chcieć pograć
 szykować
 szykować
 
+gwałcić trafić wstydzić
 
 ssać musieć zadzwonić przyjść chcieć puścić zemdleć
 kręcić próbować marudzić wychodzić
@@ -7015,6 +7134,7 @@ musić wkroczyć zrobić
 mieć być to
 zobaczyć iść
 mówić stresować umieć rozumieć szwargotać
+zabijać pójść bać
 urodzić być być być być
 słuchać
 być mieć wypisać powinnam iścić
@@ -7146,6 +7266,7 @@ myślić liczyć
 dać znać wpaść zapraszać
 ruszać będą będą grać wbijać
 robić nudzić
+rozumieć być
 
 przeprowadzać
 to będziesz zdawać
@@ -7164,6 +7285,7 @@ musić mieść
 obchodzić tyć
 to wziąć
 mieć
+łgać
 wspomnieć być być
 mieć mieć oddać
 to być
@@ -7427,6 +7549,7 @@ wiedzieć polec
 być
 być
 
+urodzić uaktywnić
 będzie to
 
 
@@ -7548,6 +7671,7 @@ wiedzieć móc uratować ogłosić to być
 przeszkodzić
 spalić pokazywać to
 widać robić
+wziąć jebać
 móc chcieć
 wzrość zarabiać
 
@@ -7561,6 +7685,7 @@ mówić
 mówić
 wypożyczyć
 grać
+wziąć imprezować
 wkurwić być być robić
 mówić chcieć to być
 być
@@ -7673,9 +7798,11 @@ myśleć lecieć
 chcieć wywozić
 postanowić zakończyć
 postanowić zakończyć
+wykorzystywać
 
 wstawić to wskoczyć
 być bronić
+uważać mieć
 głosować siedzieć
 głosować siedzieć
 mieć epatować być
@@ -7770,6 +7897,7 @@ zapraszać
 mieć
 musić mówić zostać
 wiedzieć być dostać zdołać uciec to
+powiedzieć być czyścić
 chcieć być być
 wymyślić
 mieszkać
@@ -7858,6 +7986,7 @@ grać wracać
 móc wysłać chcieć
 grać
 być
+zgadzać mieść to mieść
 segregować mieć
 to losować będą
 sprawdzić będzie mieć
@@ -7884,6 +8013,7 @@ obstawiać będzie
 zostać zrozumieć
 wychodzić być
 działać być
+rozumieć to ułatwić
 wiedzieć spoufalać zrobić
 mieć powinna siedzieć
 mieć
@@ -7898,11 +8028,14 @@ napluć
 być kupić
 czekać wpisach zruwnowarzenie
 czekać wpisach zruwnowarzenie
+czekać zapaść móc zamieścić
 to
+wiedzialbym zjebać walczyć spowiedz
 polecać oglądać mieć
 powiedzieć będzie podobać
 wierze pisać cupiał decydować wynikać
 mieć kupić trzymać
+pozdrawiać czekać
 być trzeba
 zasługiwać mieć
 
@@ -7916,6 +8049,9 @@ wrócić
 zacząć dbać przestawać reagować
 prezentować
 znaczyć wiadomo będzie zbierać
+uważać być umierać
+prosić prosić
+prosić prosić
 mieć czekać
 oglądać ukrywać mieć wkurzyć
 grać
@@ -7931,6 +8067,7 @@ przychodzić
 przychodzić
 pokazywać być
 wylądować
+wiedzieć odpisać bojkotować pisać bojkotować zatrudnić
 być zainwestować podawać
 mieć ruszyć myślić będzie pamiętać
 
@@ -7960,6 +8097,7 @@ to być zmienić dosypać
 czuć
 być to być
 widzieć pamiętać
+zająć
 napisać wyświetlić odpisać
 
 przechodzić
@@ -7993,6 +8131,8 @@ chodzić wzywać
 zgadzać czytać
 mieć rozumieć
 oglądać
+wyglądać
+wyglądać
 mieć
 czuć
 to grać
@@ -8026,6 +8166,7 @@ czepiać iść
 wymyślić
 być
 świętować
+załapać być
 sprawdzić być nadawać
 
 być wystawić grać
@@ -8043,6 +8184,7 @@ wymyślić
 
 podobać
 dać czytać
+rozwalić
 być
 
 określić
@@ -8060,6 +8202,7 @@ to być móc wygrać
 refundować
 
 być robić
+jestes wierzyć być
 wiedzieć omijać postanowić sprawdzić mylić
 wolno mówić
 to wyrzucić musieć pauzować
@@ -8067,6 +8210,7 @@ to wyrzucić musieć pauzować
 być
 
 
+dostać widzieć odurzyć
 mieć być
 dawać obrażać
 być
@@ -8088,11 +8232,15 @@ można plakal plakal znizac
 
 móc grać mieć
 zgubić wbiegać
+mówić to
 móc być
+pisać patrzyć
 być chodzić
 powinni pogłębić
+robić to
 musić być sprawiać tracić
 to chodzić pisać chodzić
+
 mowie mieć powalczyć
 
 to zostać robić być
@@ -8106,6 +8254,7 @@ chcieć zobaczyć oglądać
 powtarzać móc sprawdzić
 myć być
 myślić chcieć prowadzić
+móc mieć
 napisać
 zmarnować
 interesować mieć
@@ -8113,7 +8262,9 @@ zaszkodzić powinno być
 mieć być
 
 remisować oddać przeginać
+mieć zostać
 znać
+to potrzeba trzeba żerować
 mieć tracić
 bedziemy grac
 musić być być
@@ -8128,6 +8279,7 @@ być wyglądać
 mieć zamierzać mieść wiedzieć wyjść
 to wypożyczyć
 dać zauważyć
+nakrecasz
 woks wojować ginąć
 będziesz pisać żenować
 sprzedać
@@ -8140,6 +8292,7 @@ być
 odepchnąć umykać
 zdać pójść
 grać
+być pisać powinniśmy bojkotować utwierdzać być
 oddać przyznać być
 musić być
 musić być
@@ -8161,14 +8314,17 @@ to będzie t
 mieć przybedzie bedziesz mialić
 mieć przybedzie bedziesz mialić
 zagrać
+
 chcieć być
 zostać wyciszyć
 wniść kłamać
 być
+napisać dostać dostać móc poczuć
 nawidzić
 być to mascherano
 wyciagnę
 to
+być słuchać
 mieć być
 zdziwić ogarnąć
 spełniać
@@ -8178,8 +8334,10 @@ poradzić grać
 pisać
 robić
 ide wracać obserwować
+mówić pozmieniać
 dawać uczyć wymagać
 
+uważać być
 narzekać musić grać
 powiedzieć pijta ograniczajta
 być być
@@ -8229,19 +8387,23 @@ należeć to sięgnąć powinno być
 mówić ściąć zmienić
 chcieć ładować widzieć
 wiedzieć chcieć robić zapaść
+być
 wygrywać
 pożyć to musić być
+sfrustrować
 to być chować
 być ugrać ugraja
 powinno zaorać posypać zbombardować
 powinno zaorać posypać
 doprowadzić grać decydować
+uważać uwierzyć będzie stawiać
 powinien być zutylizować
 być zagrywać
 chcieć nazwać trafić
 wrzucać być
 
 gratulować wiedzieć mieć
+śmieć zrobić
 wymyślać
 to być
 spuścić
@@ -8305,11 +8467,13 @@ upaćkać
 zapragnąć
 zapragnąć
 oskarżyć
+mieć dostać musieć dostać
 mieć
 zapłacić przemęczać zrobić
 widzieć zaznaczyć
 mieć mieć zdążyć
 mieć sprzątnąć móc zebrać
+wystarczyć wsadzić można zostać
 być zastąpić
 wtórować
 wtórować
@@ -8353,6 +8517,7 @@ to być wytłumaczyć widzieć spalić trzeba być podać
 to być wytłumaczyć widzieć spalić trzeba być podać
 zobaczyć będzie czekać debiutować myśleć to
 obejrzeć zostać
+wiedzieć powiedzieć wychodzić iść oblać
 przeczytać mieć opadać czytać
 interpretować
 powinny mieść
@@ -8385,6 +8550,7 @@ powiedzieć
 trzeba wynosić lubie przypominać zanieczyszczać
 nosić
 nosić
+móc wiedzieć iść
 być polecać
 zobaczyć
 żegnać dyskutować
@@ -8402,6 +8568,8 @@ proponować poczytać
 
 polecić być
 
+wypalić
+przeżyć pobić żucić przydusić odebrać najbać powinszować
 grać
 mieć być
 podawać mieć
@@ -8422,6 +8590,7 @@ móc dojść
 zapomnieć dosypać
 to rzucić
 móc ograć
+wygrać uznać być
 umieć mieć
 czekać
 mieć liczyć
@@ -8442,6 +8611,8 @@ zrobić podawać płacić
 można być będziecie reprezentować
 
 pozdrawiać
+myślić myśleć trzeba mieść
+znaleźć chcieć umrzeć
 będzie
 podziać
 
@@ -8458,11 +8629,14 @@ mieć być pokonywać
 to
 dać żyć mieć
 trząść płakać być oddać
+mylić
 pękać przeczytać
+już.nie wyjść
 słyszeć
 
 stać zatrzymać
 wiedzieć być móc będzie
+móc poruszyć zacząć pracować
 dziękować pozdrawiać
 znać prosić powiedzieć to
 być
@@ -8484,6 +8658,7 @@ grać opuszczać wywołać
 grać opuszczać
 wyciągać mieść
 musial walczyć lecieć atakować trzeba walczyć mieć potrafić walczyć
+kopić
 napisać sprawdzić
 przestać ćpać być
 podejrzewać uspiony grać
@@ -8514,6 +8689,7 @@ mieć oczekiwać
 pojawić
 będzie prezentować
 to
+iść skreślić
 być
 być
 przyznać trzeba
@@ -8541,6 +8717,7 @@ odpierdolić
 odpierdolić
 być będzie
 jechać
+
 móc zrobić
 dziać
 mieć musić spodziewać
@@ -8561,6 +8738,7 @@ wiedzieć
 widzieć dopaść rozmawiać
 przejechać
 traktować chcieć mieć wyrazić
+mieć pouczać
 powinien mówić
 być brakować
 
@@ -8568,6 +8746,7 @@ być brakować
 walić być robić
 
 mieszkać mieć rozchwiać
+pisfani wybrać mieć
 grać móc sprowadzić
 
 zacząć posądzać woleć oglądać
@@ -8590,9 +8769,11 @@ fałszować zobaczyć pokazać
 zapominać
 świadczyć
 wsadzić
+równia
 myślić będzie
 puścić móc dostać
 udać wydać świecić wisieć
+zapomnieć zażyć
 mieć być chcieć pozbyć
 wiedzieć prosić zabierać
 
@@ -8611,6 +8792,7 @@ iść wrzucić
 
 być być
 oczekiwać chwalić obgadywać
+
 porównywać napisać
 być chodzić
 to zrobić
@@ -8623,6 +8805,7 @@ to być
 ciosać szydzić
 wziąć oslabiaj wiedzieć obciągać
 zmienić
+to współpracować
 
 pamiętać robić gadać musieć być być
 wrzucać
@@ -8642,11 +8825,13 @@ rozumieć powinniśmy oczekiwać
 
 być robić
 mieć moge życzyć
+być być
 być
 zapraszać pierdolić
 być można wygrac to
 być można wygrac to
 wiedzieć życzyć zostawić
+napisać dziękować być pogrążyć
 robić mieść
 zwać
 mieć zdobyć
@@ -8654,16 +8839,21 @@ lecieć polecić dostać
 być
 być
 jechać
+przeglądać dziwić widzieć to
 wygrać przebić zostawić wprowadzić
 planować zakręcić zapraszać
+być wiedzieć wiedzieć
 przesłaniać
 musić być podpisać ogłaszać
 to być
+chcieć chodzić
 wiedzieć
 ugotować
 być okazać
 
 dać odpocząć będą mieć
+widzieć żegnać
+napisać
 iść zagrać
 
 znać
@@ -8671,9 +8861,11 @@ znać
 wiedzieć być zamierzać wciągnąć
 grać nadawać
 
+można zobaczyć to
 zgadzać
 być byla
 być
+być żyć powstać
 mieć zwołać
 lecieć pamietam kończyć
 usłyszeć to być wierzyć móc zależeć
@@ -8684,6 +8876,7 @@ grać mieć będzie
 przeżyć zabić
 czekać
 mówić będą
+mieć mieć
 będą grać będzie zapominać być
 móc udać to utopić wyglądać
 prosić dowiedzieć mieć
@@ -8693,6 +8886,7 @@ zatrzymać
 to stracić napisać wypadać
 zapomnąć żyć opiekować
 brnąć być trzeba przyznać
+powiedzieć podać odjebaliscie
 mówić móc być
 
 pomagać zbierać
@@ -8707,15 +8901,18 @@ nazwać
 jestes
 mieć otwierać
 pić
+to być
 być
 proponować wprowadzić
 być skandować
 chcieć
 być pierdolić
 być mieć
+być
 zmierzyć
 być powiedzieć będzie musić mieść
 
+wyglądać spełnić
 przekonać być
 boleć
 sprawdzić
@@ -8729,6 +8926,7 @@ znieść
 skonczmy udawać mówić mieć
 być
 kosztować
+wyglądać pić
 uczyć
 napić
 zejść
@@ -8785,6 +8983,8 @@ zachowywać być pozdrawiać
 grać lubie grac grać
 stracić to rzucić
 wyglądać chcieć przywrócić
+brać śmierdzić mówić
+móc wyleczyć zaboleć
 pomyślić zastanowić palić
 chodzić stać czekać zrobić to
 wiedzieć walczyć zapytać
@@ -8803,7 +9003,9 @@ będę mieść
 to być
 to być
 
+witać
 myśleć
+zgadzać być popatrzyć zobaczyć
 uśmiechać
 mieć
 mieć
@@ -8815,7 +9017,9 @@ być
 to
 wypierdalać
 być
+czytać być
 można otrzymać chodzić
+pytać odnosić
 bać
 mieć czekać strzelać
 wiadomo wygrać mieść pytać musić zdobyć
@@ -8824,6 +9028,7 @@ zostać zaprosić
 zapomnąć
 to robić
 znaczyć mieć
+być chcieć zajmować
 szanować mieść
 chodzić
 dać
@@ -8831,12 +9036,14 @@ myśleć kochać
 wzmocnić
 będzie być
 
+widzieć robić
 udawać
 dać
 patrzyć być uczyć
 będzie będzie rywalizować
 kończyć
 zbliżać pukać zapomnieć być pobiec przywitać drżeć
+być
 spać móc zadzwonić
 można mieść to
 być wyśmiać odchodzić
@@ -8861,6 +9068,7 @@ dopłacić chcieć
 chcieć wierzyć podpisywać zgodzić
 wiadomo rodzić
 śledze widzieć być podjarać
+okazywać pachnąć
 móc pracować prosić
 zrobić mieć przytulić
 napisać podpisać
@@ -8893,7 +9101,10 @@ czuć być
 być
 to być
 wyobrażać
+być mieć pozbyć traktować
 połączyć to
+chcieć dodać
+zebrać pierdolić
 grać robić
 wygrać mieść będą spiąć mieć
 chodzić
@@ -8922,7 +9133,9 @@ być
 interesować
 móc zapomnieć śpiewać mieć
 porównywać mieć rozmawiać
+widać być prosić
 stawiać
+wiedzieć sprawdzać wrócić
 móc przygotowywać
 
 być podobać
@@ -8944,6 +9157,7 @@ być
 być
 znać być
 poczytać to
+musić sprowokować
 można robić gadać nagrywać
 wstać być
 to być musić uczyć być
@@ -8955,6 +9169,7 @@ wywoływać rozpoczynać
 rozegrać
 
 mieć powiedzieć wiadomo będzie wmawiać to
+zakończyć szkoda
 przytulić
 mieć
 
@@ -9024,6 +9239,7 @@ mieć trzymać
 być to być wyśmiewać chcieć
 powinienem zareagować
 trza przełknąć
+mieć mieć
 móc mieść
 przegrać
 zyje
@@ -9036,6 +9252,7 @@ udawać wiedzieć
 dostać być być kosztować
 ratować być zamierzać
 mieć być zszokować
+faszyzować pluć zajebać
 dać
 być wychować okiełznać
 
@@ -9062,6 +9279,7 @@ spalić być pokazać
 przydać będą powinien grać
 będziesz rozkminiać
 być
+przeczytać móc użyć
 patrzyć mieć rozwinąć
 to być to
 podpisać być
@@ -9089,6 +9307,7 @@ robić lecieć być
 łgać spełnić kłamać mieć
 poznać zapowiadać
 trzeba przejść zniknąć
+
 denerwować być podejrzewać
 móc być być
 wiedzieć obciągać
@@ -9133,9 +9352,11 @@ być
 zostać
 to być
 mieć doceniać
+ująć wojować ginąć
 mieć
 chodzić to zmarnować
 dać
+iść leczyć
 podziękować
 
 to powinna być
@@ -9252,6 +9473,7 @@ mieć zaprosić pogratulować
 podpisać cieszyć zgadzać
 być poznać
 
+być powiedzieć to znać
 kupować
 to
 to kupować
@@ -9270,6 +9492,7 @@ mieć
 być mówić
 stawiać
 będę mieść zabić
+można być
 to
 dotyczyć
 
@@ -9294,14 +9517,17 @@ robić
 
 
 być pokazać
+włączyć
 mieć obudzić być to iść leżeć
 to być polecać
 
 robić różnić
+patrzyć
 walczyć lać
 
 czekać być
 mieć przypiąć znikać
+zostać wkładać
 być uuuuu
 dostać wiedzieć płacić
 odpierdolić będą bogacić
@@ -9329,6 +9555,7 @@ przemawiać być
 przemawiać być
 zdać ukraść
 widać
+będziesz
 pokazać być użyć pokazić skorzystać
 będzie pytać
 pasować
@@ -9340,11 +9567,14 @@ mieć prowadzić
 można kochać
 można kochać
 będzie pasować
+być upośledzić
 zabierać jechać
 żalić cieszyć dostać należeć
+wziąć jebać
 czekać
 doić
 mieć
+być wiedzieć wciągnąć sprawdzić
 grać być
 zajmować zrobić
 rozmawiać
@@ -9361,6 +9591,8 @@ być wyglądać
 być wyglądać
 chcieć postalkować mieć
 zgadzać kupować zajrzeć powspominać
+wiedzieć to
+wiedzieć to
 mieć udać
 można obejrzeć
 można obejrzeć
@@ -9395,6 +9627,7 @@ przyjąć powiedzieć
 widzieć móc gadać zaslizona
 być to
 niepokoić
+być testować zagrać używać
 trzeba podrzucić
 można wklepać wytłumaczyć chodzić myślić
 móc być
@@ -9447,6 +9680,7 @@ apelować
 apelować
 przeprosić
 zapamiętać strzelać
+potwierdzić być
 zamieszkać to
 zamieszkać to
 być móc przedłużyć chcieć
@@ -9457,6 +9691,7 @@ lecieć uschnąć
 woleć
 zrobić zreformować tracić
 tęsknić
+włożyć trzymać
 
 
 wiadomo
@@ -9464,6 +9699,7 @@ to
 czytać oglądałzdjęcie
 chcieć napisać zrobić to być
 chcieć napisać zrobić to być
+być
 być
 rosnąć mieć
 śmierdzić mówić pachnąć wiedzieć być
@@ -9514,6 +9750,7 @@ być nazwać
 dostać chcieć udowodnić być
 straszyć straszyć
 być wiedzieć
+nazywać
 chcieć zwolnić pokazać zrezygnować
 zaczne ogladac znać
 chcieć wylansować plujac
@@ -9521,6 +9758,7 @@ chcieć wylansować plujac
 przestraszyć
 
 dyskutować
+opublikować załgać łgać
 mieć
 uważać
 być
@@ -9567,8 +9805,10 @@ słuchać
 cieszyć
 wiedzieć
 można nazwać
+mieć grać płakać podobać
 chodzić cieszyć wygrać mieć
 
+być
 mieć odstawać ugrywamy
 wracać przesadzać
 chcieć wiedzieć
@@ -9585,6 +9825,9 @@ to móc być otworzyć
 widzieć
 to być zagrać mieć
 
+to spi
+popierdolić pójść pójść popierdolić
+zrobić
 zrobić pisać mieć
 myśleć uciekać szukać uciekać być
 
@@ -9597,6 +9840,7 @@ zacząć
 przepraszać
 być powiedzieć
 uruchomić
+widzieć zasłać
 mieć cieszyć podusić
 strzelić
 płacić dziwić
@@ -9660,11 +9904,13 @@ chcieć żyć chcieć
 przetłumaczyć uprzeć
 trzesie bać nachapać napsuć
 mieć wariować
+to
 widać uznać trzeba tłumaczyć
 wziąć to będzie
 obniżyć
 miło pisać
 podać uświadomić kompromitować
+wierzyć
 wyglądać stać pilnować powiedzieć
 to
 przygotować mówić
@@ -9685,6 +9931,8 @@ być
 mieć
 sprawdzić
 wiedzieć pikować zrobić
+być
+być
 znać
 być
 powiedzieć być wybuchać
@@ -9702,6 +9950,7 @@ czytać to wyglądać
 mieć mieć
 
 spisać będzie
+robcie
 doceniać
 być polecieć rozpocząć
 zobaczyć mieć komentować
@@ -9716,6 +9965,7 @@ zacząć krążyć być
 móc być
 być wystąpić
 być rozdać
+
 rządzić wrócić
 mieć bojkotować zatrudnić trzeba być stać
 chcieć
@@ -9737,10 +9987,12 @@ uznać być
 żądać chcieć
 zagrać to być
 to
+mieć
 mieć być
 iść
 napisać doprowadzić mieć być
 korzystać być
+musić oglądać
 wybierać chcieć iścić móc złożyć zaakceptować
 zadzwonić jechać
 
@@ -9776,6 +10028,7 @@ odnosić powinien być być
 schizoli
 
 dorównać zapowiedzieć to być
+
 smakować
 zaznaczyć być to wiedzieć rosnąć
 mieć trzeba będzie ogarnąć
@@ -9810,6 +10063,7 @@ mieć
 zapedzilem dawać
 trzeba rozmawiać
 być
+komentować
 wiedzieć oznaczać
 mieć pozdrawiać
 
@@ -9836,6 +10090,7 @@ dostać to
 zrobie pójść
 wyglądać
 mieć
+widać pasować napluć
 wyłożyć
 
 kandydować
@@ -9848,6 +10103,8 @@ dziękować
 być
 musić podjechać
 zastanawiać
+wymyślić
+wymyślić
 
 być
 mieć
@@ -9924,6 +10181,7 @@ kosztować
 wiedzieć być być zdegustować kończyć
 
 
+uważać wygladasz
 mówić
 mówić
 znać korzystać wiedzieć
@@ -9978,6 +10236,7 @@ otwierać mieść zwiększyć
 mieć
 mieć przerąbać
 mieć mieć fałszować to
+robić
 
 odezwać mow kleić
 okazać zacząć mówić
@@ -9995,6 +10254,7 @@ mieć naprawić
 negować być polemizować można zarzucić
 chorować walczyć
 chcieć
+pójść ukraść
 założyć być
 chcieć odsprzedać polecać wyprzedać
 być
@@ -10009,6 +10269,7 @@ dziwić
 dziwić
 
 mieć chcieć zapomnieć
+wnosić
 dominować
 to iść
 chodzić mieć
@@ -10021,6 +10282,7 @@ wiedzieć mówić poczytać dowiedzieć decydować
 znać będzie widzieć czynić
 przestać płakać
 robić
+zobaczyć
 salkanw to
 to być
 życzyć
@@ -10033,12 +10295,14 @@ powiesić dyndać mieć
 wiedzieć pisać
 będziemy przygotowywać powiedzieć przygotować
 będziemy przygotowywać powiedzieć przygotować
+kłócić chcieć mieść
 moge spuchnać
 to
 grać spędzić
 być pierdolić chcieć pamiętać kupić
 mieć
 powiedzieć
+być sa
 pracować znać
 będzie
 będzie to bawić
@@ -10128,6 +10392,7 @@ mieć musić umrzeć
 trzeba być
 trzeba być
 wziąć wyglądać
+być popierać
 być słyszeć myślić
 chwalić
 jeździć
@@ -10171,6 +10436,7 @@ dziękować komentować będę starać utrzymać
 dziękować komentować będę starać utrzymać
 pływać
 to
+bronil to
 odnosić zwolnić napisać patrzyć napisać
 
 pogrążać
@@ -10196,6 +10462,7 @@ brać być
 być
 dusić musze inchalować
 dodawać
+opluwać ciągać potrafić
 przekroczyć ryzykować
 
 świadczyć
@@ -10240,6 +10507,7 @@ mieć być
 żreć będziesz mieć
 pozwolić
 to wkurwić
+być mówić
 wracać być
 robić patrzyć
 powieść będzie
@@ -10253,6 +10521,7 @@ dać będzie
 
 
 być szkoda
+musieć kopać
 zrobić będą zobaczyć
 powinieneś wrócić
 kupilam przeczytać
@@ -10308,6 +10577,7 @@ czuć rozczarować być wiadomo
 być być móc dołączyć
 musić wyjść padać zaczynać
 hejtować
+osłabiać
 być chcialem wystroić
 być
 być
@@ -10324,6 +10594,7 @@ być móc korzystać
 zastosować wyjść
 być warto budzić
 pić przebiec
+mieć mieć zdać
 mieć
 odpaść zbierać chcieć zrobić
 
@@ -10421,6 +10692,7 @@ odwiesić
 wydać
 wydać
 łgać mówić
+jezdzisz uciał
 mieć wykorzystać skrytykować
 mieć wykorzystać skrytykować
 to
@@ -10499,6 +10771,8 @@ wyobrazcie moglibysmy zajsc byly odsuwać
 mijać chodzić być
 przejeżdżać wchodzić
 być wystawić będzie
+trzymać postraszyć będą tuczyć
+trzymać postraszyć będą tuczyć
 mieć
 napisać być mieć
 mieć
@@ -10511,6 +10785,7 @@ móc zapewnić będziemy szukać sprawdzać
 wygrać to być przerżnąć
 musić zmartwić być uzależniać
 wiedzieć pamietam gratulować być zdać
+być spotykać uwarzasz wisieć
 pytać powiadomić
 uczyć
 pracować oszołomie
@@ -10523,6 +10798,7 @@ myślić
 mieć
 móc grać być
 będą zachwycić dowiedzieć mieć grać
+zamknąć sikać
 znać być
 wybaczać mieć
 zaczynać brykać
@@ -10568,6 +10844,7 @@ zapraszać
 zatrzymać odejść
 być lubić dawać
 ciekawić być
+być napędzać
 zdzierżyć
 przestraszyć można oznaczyć dostać
 widze
@@ -10652,6 +10929,7 @@ skończyć dobić
 mieć
 płacić będzie grać zgadzać
 czekać napisać
+być robić
 wychodzić
 dać oddać zebrać
 dać oddać zebrać
