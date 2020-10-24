@@ -2918,7 +2918,7 @@ jeden bramkarz sezon
 rana pani Kamila kobieta bąk poparcie wasi Titanic
 rana pani Kamila kobieta bąk poparcie
 dziewczynka chrześcijanka głowa stała
-dziewczynka chrześcijanka głowa stała
+dziewczynka chrześcijanka głowa stała HTTP
 czas mama uczucie
 karnet
 kutas rozum uroda dziennikarz
@@ -5392,7 +5392,7 @@ głos głos Marcin
 głos głos
 trakt zakup aplikacja informacja
 migrant WHO in in
-migrant WHO in in
+migrant WHO in in HTTP
 raz talent
 euro inny
 rodzina sos babcia korzenie kciuk

@@ -1063,7 +1063,7 @@ można obejrzeć
 
 ograć prowadzić to
 obrazić
-mieć napisać płakać to móc wrzucić
+mieć napisać płakać wrzucić
 
 wrócić
 to zapowiadać
@@ -1445,7 +1445,7 @@ będziemy
 trzeba zmienić
 
 weż zmienić
-zmienić
+weż zmienić
 chodzić
 być zabrać zabrać
 pisać będą wiedzieć
@@ -2846,7 +2846,7 @@ traktować być potrafić wymienić
 być zwracać
 mówić wypierdalać
 móc przepisywać
-to srales pisać
+to pisać
 być
 być
 mieć zmieniać wygłupiać
@@ -4336,7 +4336,7 @@ będzie zrobić
 być wlać wyglądać musować
 
 być być
-być być
+to być być
 powiedzieć będzie zwalniać
 spojrzeć móc mieść
 mieć być
@@ -5153,8 +5153,8 @@ to być
 będzie
 być
 wsadzić
-być chcieć zapozować syna
-być chcieć zapozować syna
+być chcieć zapozować
+być chcieć zapozować
 wiedzieć grać
 chodzić
 dziwie wybrać mieć
@@ -5418,7 +5418,7 @@ obrażać to to mówić
 mieć
 zostać podać
 pieprzyć być
-być
+pieprzyć być
 grać
 wiedzieć oznaczać wygrać
 mówić mieć
@@ -5443,8 +5443,8 @@ skakać chudnąć
 pierdolić
 być
 być
-raczyć przybyć
-raczyć przybyć
+przybyć
+przybyć
 to
 dać
 przeczytać napisać być dołączyć mieć
@@ -5962,7 +5962,7 @@ mieć pisać zrobić
 umieć
 być pisać
 móc grać musić potwierdzić
-czuć dotknąć śmieć
+npoproszę czuć dotknąć śmieć
 npoproszę czuć dotknąć
 będzie
 umknąć
@@ -6004,7 +6004,7 @@ będę będę
 
 oglądać oglądać to być
 przestawać myslec mieć
-przestawać myslec mieć
+to przestawać myslec mieć
 pierdolić
 być wcisnąć
 
@@ -6193,7 +6193,7 @@ mówić zasługiwać
 sprawdzać czekać popełnić
 zdobyć
 wiedzieć mieć
-odpowiadaja
+
 mieć odchodzić
 pisać
 wprowadzić karać karać
@@ -6629,7 +6629,7 @@ myślić zmienić będą mieć
 
 móc być sprawić stracić
 wyrwać to być
-odpadać chcieć śmierdzić
+odpadać chcieć
 móc być
 zobaczyć dać nacieszyć znudzić
 pochlastać
@@ -7588,7 +7588,7 @@ to
 sądzić przystać
 tracić meldować
 stwierdzać podnieść
-mieć
+
 to
 móc być być
 móc być być
@@ -9465,7 +9465,7 @@ wygadywać być
 zadawać kierować trzeba wiadomo
 móc wyluzować wyjechać nabrać
 pasować
-
+pasować
 manipulować to
 zawieźć mieć prosić dać znać wymyślić
 mieć zaprosić pogratulować
@@ -9661,7 +9661,7 @@ wymienić dziwić
 ocenić pozbyć
 szkoda ucichnąć
 witać trafić powinno być
-trafić powinno być
+witać trafić powinno być
 żyć podkreślać zastanowić
 
 mieć musieć iścić
@@ -10884,10 +10884,10 @@ być
 pieprzyć
 to wyszarpać
 być
+rozegrać
+rozegrać
 
-
-
-to być będę musieć zrobić to
+to być będę musieć zrobić
 być
 
 zapominać sprawiać być
